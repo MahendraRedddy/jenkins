@@ -8,4 +8,8 @@ yum install epel-release
 
  systemctl enable jenkins
  systemctl start jenkins
- 
+
+  cd jenkins
+
+
+
