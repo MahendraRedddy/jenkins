@@ -10,7 +10,6 @@ yum install epel-release
  systemctl start jenkins
  systemctl status jenkins
  
- systemctl restart jenkins
  
 
 
